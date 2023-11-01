@@ -1,0 +1,31 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+.vscode/
+.idea/
+go.sum
+bk_API使用说明.md
+bk_CHANGELOG.md
+sm4/*.log
+x509/testdata/*.*
+gmtls/tls_test/logs/*.log
+gmtls/tls_test/certs
+grpc/grpc_test/testdata
+sm2test/testdata/*
+x509test/testdata/*
+/todo.md
